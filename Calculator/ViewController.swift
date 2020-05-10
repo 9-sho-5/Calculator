@@ -90,16 +90,6 @@ class ViewController: UIViewController {
             ope = 1
         } else if count == 1 {
             
-//            if ope == 1 {
-//                setnumber = setnumber + number
-//            } else if ope == 2 {
-//                setnumber = setnumber - number
-//            } else if ope == 3 {
-//                setnumber = setnumber * number
-//            } else if ope == 4 {
-//                setnumber = setnumber / number
-//            }
-            
             calculate_processing()
             
             label.text = String(setnumber)
@@ -116,16 +106,6 @@ class ViewController: UIViewController {
             number = 0
             ope = 2
         } else if count == 1 {
-            
-//            if ope == 1 {
-//                setnumber = setnumber + number
-//            } else if ope == 2 {
-//                setnumber = setnumber - number
-//            } else if ope == 3 {
-//                setnumber = setnumber * number
-//            } else if ope == 4 {
-//                setnumber = setnumber / number
-//            }
             
             calculate_processing()
             
@@ -144,16 +124,6 @@ class ViewController: UIViewController {
             ope = 3
         } else if count == 1 {
             
-//            if ope == 1 {
-//                setnumber = setnumber + number
-//            } else if ope == 2 {
-//                setnumber = setnumber - number
-//            } else if ope == 3 {
-//                setnumber = setnumber * number
-//            } else if ope == 4 {
-//                setnumber = setnumber / number
-//            }
-            
             calculate_processing()
             
             label.text = String(setnumber)
@@ -170,16 +140,6 @@ class ViewController: UIViewController {
             number = 0
             ope = 4
         } else if count == 1 {
-            
-//            if ope == 1 {
-//                setnumber = setnumber + number
-//            } else if ope == 2 {
-//                setnumber = setnumber - number
-//            } else if ope == 3 {
-//                setnumber = setnumber * number
-//            } else if ope == 4 {
-//                setnumber = setnumber / number
-//            }
             
             calculate_processing()
             
