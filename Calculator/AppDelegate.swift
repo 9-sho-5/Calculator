@@ -6,6 +6,10 @@
 //  Copyright © 2020 Kusunose Hosho. All rights reserved.
 //
 
+//                                                  //
+//  This Calculate Application is for iPhone11 Pro  //
+//                                                  //
+
 import UIKit
 
 @UIApplicationMain
